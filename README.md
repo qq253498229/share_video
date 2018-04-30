@@ -25,14 +25,14 @@
 
 *   [Java](#java)
 *   [PHP](#php)
-*   [Python](#pythone)
+*   [Python](#python)
 *   [Web](#web)
 *   [Vue](#vue)
 *   [Node.js](#node)
 *   [IOS](#ios)
 *   [Android](#android)
 *   [Mysql](#mysql)
-*   [Liunx](#liunx)
+*   [Linux](#linux)
 *   [大数据](#data)
 *   [机器学习](#MachineLearning)
 *   [微信小程序](#wechat)
@@ -174,7 +174,7 @@
 *   高性能可扩展MySQL数据库设计及架构优化 电商项目。[下载地址](https://pan.baidu.com/s/1YdGbQfWwvaw6KeaBTjV5oQ) 密码: p3uh
 *   MySQL性能管理及架构设计。[下载地址](https://pan.baidu.com/s/1FipTpoW2L-Wn0Nymb1onKA) 密码: w4xq
 
-###  <a name="liunx"></a>Liunx
+###  <a name="linux"></a>Linux
 ###  <a name="MachineLearning"></a>机器学习
 *   机器学习入门 Scikit-learn实现经典小案例。[下载地址](https://pan.baidu.com/s/1SZu9YgABjZuk0YG3vOv2pQ) 密码: ymie
 
